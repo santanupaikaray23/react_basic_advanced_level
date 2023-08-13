@@ -1,1 +1,12 @@
-React basic
+Package.json
+
+>Entry Point to application
+>Meta Data(name,description,version)
+>Package
+>script(start,test,build)
+
+Steps to install Packages
+----------------------------
+Node js must be install
+>go inside the folder using cmd
+>npm install Packagename
