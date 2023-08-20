@@ -40,4 +40,4 @@ function add(a,b){
 
 add(1,5)
 
-video:7th completed
+video:8th completed
