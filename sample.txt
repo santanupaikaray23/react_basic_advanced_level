@@ -10,3 +10,34 @@ Steps to install Packages
 Node js must be install
 >go inside the folder using cmd
 >npm install Packagename
+
+-There are three types of components
+1.Class component(It is also called Logical component, use to call api, Manage logic and display, It can mentain state)
+2.fundamental component(Iy is also called Dumb component, It uses for display purpose, It can't mentain state)
+3. Hooks component
+
+State VS prop
+-------------------
+State:
+---------
+> It is local variable.
+>Any Data interaction will happen with state.
+>Mutable (we can change the value in state)
+
+Props:
+----------
+>Use to transport the data 
+>We can't change the data of Props
+>We are using the colly bracker to bind the data. also it is called data binding or interpollusion.
+
+map : Map help to display the contain of the screen
+filter
+indexof
+
+function add(a,b){
+    return a+b
+}
+
+add(1,5)
+
+video:7th completed
