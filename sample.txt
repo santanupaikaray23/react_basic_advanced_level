@@ -40,4 +40,7 @@ function add(a,b){
 
 add(1,5)
 
-video:8th completed
+Params(/1)
+QueryParams(?name=santanu)
+
+video:9th completed
